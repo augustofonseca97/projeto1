@@ -1,0 +1,237 @@
+/*para todos os aqrquivos*/
+h2{
+    background-color: white;
+    color: rgb(46, 144, 157);
+    box-shadow: 0px 10px 10px 0px black;
+    border-radius: 20px;
+    
+}
+body {
+    background-image: linear-gradient(to top, rgb(12, 216, 209),white);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/*cabeçalho global*/
+
+
+header{
+     background-image: linear-gradient(to bottom, rgb(15, 148, 155), rgb(12, 111, 128));
+    color: white ;
+    padding: 30px;
+    border-bottom: 5px solid black;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+
+.link{
+    text-align: center;
+    position: relative;
+    transform: translatey(30px);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    background-color: rgba(127, 255, 212, 0.603);
+    width: 10px;
+}
+
+/*home*/
+.hometitulo{
+    color:black;
+    margin-top: 10px;
+    text-align: center;
+
+}
+
+.hometitulo1{
+    color: red;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -30px;
+    text-align: center;
+}
+
+.hometxt{
+    background-color: white;
+    color: rgb(46, 144, 157);
+    box-shadow: 0px 10px 10px 0px black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+.hometxt2{
+    color: black;
+    font-size: 20px;
+    margin-top: 40px;
+    text-align: left;
+}
+
+
+
+/*quem somos */
+.img01{
+    width: 1116px;
+}
+
+#pag{
+    background-color: rgb(46, 144, 157);
+    border-radius: 20px;
+    text-align: justify;
+    margin-top: 10px;
+    
+    box-shadow: 0px 10px 10px 0px black   
+}
+
+#cultura{
+    background-color: rgb(46, 144, 157);
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px 0px black 
+}
+/*onde atuamos*/
+#ondeatuamos{
+    background-color: rgb(46, 144, 157);
+    padding: 20px;
+    text-align: center;
+}
+
+.atuamos1{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 20px ;
+}
+#p-atuamos{
+    font-size: 30px; 
+    margin-top: -20px;
+
+
+}
+
+#cel{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h6{
+    background-color: white;
+    border-radius: 20px;
+    font-size: 30px;
+    color:rgb(46, 144, 157);
+    box-shadow: 0px 10px 10px 0px black;
+}
+/*fale conosco*/
+
+#fale{
+    background-color: rgb(46, 144, 157);
+    padding: 20px;
+    text-align: center;
+}
+
+.msgform{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+
+form{
+    text-align: center;
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px 0px black;
+
+    padding: 5px;
+    
+    
+}
+
+label{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    
+}
+
+input{
+    background-color:  rgb(46, 144, 157) ;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.btn1{
+    background-color: green;
+    color: white;
+    
+}
+::placeholder{
+    color: white;
+}
+
+
+
+
+/*footer global*/
+footer{
+    background-color: white;
+    color: rgb(12, 216, 209);
+    margin-top: 100px;
+    text-align: center;
+}
+
+/*serviços*/
+.txts{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: white;
+    color: rgb(12, 216, 209);
+    margin-top: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px 0px black;
+
+
+}
+
+.txts1{
+    text-align:justify; 
+    padding: 20px;
+
+}
+
+.imgser{
+    margin-top: 20px;
+}
+
+.msgformse{
+    background-color: white;
+    color: rgb(12, 216, 209) ;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 10px 10px 0px black;
+
+}
+
+
+
+    
